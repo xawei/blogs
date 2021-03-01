@@ -6,7 +6,7 @@ title: Ploto quick start
 
 ## 目标
 
-- 在kubernetes集群中部署Ploto任务调度与执行框架
+- 在Kubernetes集群中部署Ploto任务调度与执行框架
 - 创建Task, DynamicExecutorPool自定义资源定义（Custom Resource Definition）
 - 创建一系列的Task实例，和一个示例DynamicExecutorPool，然后ploto-controller会把这些task分配给DynamicExecutorPool管理的裸pod，pod中的应用容器消费任务（本例为打印task中的para）
 
