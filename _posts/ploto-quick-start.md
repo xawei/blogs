@@ -2,11 +2,7 @@
 title: Ploto quick start
 ---
 
-# Ploto quick start
 
-[TOC]
-
-# 
 
 ## 目标
 
