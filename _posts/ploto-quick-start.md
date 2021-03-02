@@ -3,6 +3,8 @@ title: Ploto quick start
 categories: 开源
 ---
 
+介绍任务调度与执行框架Ploto的quick start. 目前可部署使用，源码待整理后开源。
+
 <!--more-->
 
 ## 目标
