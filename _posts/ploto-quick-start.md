@@ -1,5 +1,6 @@
 ---
 title: Ploto quick start
+categories: 开源
 ---
 
 
